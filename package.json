@@ -1,0 +1,23 @@
+{
+  "name": "tddassignment",
+  "version": "1.0.0",
+  "description": "CSC 309 Assignment",
+  "main": "greetingKata.js",
+  "dependencies": {
+    "jest": "^25.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricInman/TDDAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricInman/TDDAssignment/issues"
+  },
+  "homepage": "https://github.com/EricInman/TDDAssignment#readme"
+}
